@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+# Generated URL lists and scan outputs
+reports/
+a11y_report.json
+a11y_report_summary.txt
+a11y_report.xlsx
+# URL lists (generated locally)
+urls.txt
+*_urls.txt
+sitemap_urls_*.txt
+
